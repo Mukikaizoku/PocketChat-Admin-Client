@@ -1,0 +1,11 @@
+C:\Users\mikm\Documents\Visual Studio 2015\Projects\PocketChatAdminClient\PocketChatAdminClient\bin\Release\PocketChatAdminClient.exe.config
+C:\Users\mikm\Documents\Visual Studio 2015\Projects\PocketChatAdminClient\PocketChatAdminClient\bin\Release\PocketChatAdminClient.exe
+C:\Users\mikm\Documents\Visual Studio 2015\Projects\PocketChatAdminClient\PocketChatAdminClient\bin\Release\PocketChatAdminClient.pdb
+C:\Users\mikm\Documents\Visual Studio 2015\Projects\PocketChatAdminClient\PocketChatAdminClient\bin\Release\MikRedisDB.dll
+C:\Users\mikm\Documents\Visual Studio 2015\Projects\PocketChatAdminClient\PocketChatAdminClient\bin\Release\StackExchange.Redis.dll
+C:\Users\mikm\Documents\Visual Studio 2015\Projects\PocketChatAdminClient\PocketChatAdminClient\bin\Release\MikRedisDB.pdb
+C:\Users\mikm\Documents\Visual Studio 2015\Projects\PocketChatAdminClient\PocketChatAdminClient\bin\Release\MikRedisDB.xml
+C:\Users\mikm\Documents\Visual Studio 2015\Projects\PocketChatAdminClient\PocketChatAdminClient\bin\Release\StackExchange.Redis.pdb
+C:\Users\mikm\Documents\Visual Studio 2015\Projects\PocketChatAdminClient\PocketChatAdminClient\bin\Release\StackExchange.Redis.xml
+C:\Users\mikm\Documents\Visual Studio 2015\Projects\PocketChatAdminClient\PocketChatAdminClient\obj\Release\PocketChatAdminClient.exe
+C:\Users\mikm\Documents\Visual Studio 2015\Projects\PocketChatAdminClient\PocketChatAdminClient\obj\Release\PocketChatAdminClient.pdb
