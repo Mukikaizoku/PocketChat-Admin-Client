@@ -9,3 +9,4 @@ C:\Users\mikm\Documents\Visual Studio 2015\Projects\PocketChatAdminClient\Pocket
 C:\Users\mikm\Documents\Visual Studio 2015\Projects\PocketChatAdminClient\PocketChatAdminClient\bin\Release\StackExchange.Redis.xml
 C:\Users\mikm\Documents\Visual Studio 2015\Projects\PocketChatAdminClient\PocketChatAdminClient\obj\Release\PocketChatAdminClient.exe
 C:\Users\mikm\Documents\Visual Studio 2015\Projects\PocketChatAdminClient\PocketChatAdminClient\obj\Release\PocketChatAdminClient.pdb
+C:\Users\mikm\Documents\Visual Studio 2015\Projects\PocketChatAdminClient\PocketChatAdminClient\obj\Release\PocketChatAdminClient.csprojResolveAssemblyReference.cache
